@@ -1,4 +1,4 @@
-package org.leetcode;
+package main.java.org.leetcode;
 
 import java.util.ArrayList;
 import java.util.Map;
