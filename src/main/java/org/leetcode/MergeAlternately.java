@@ -1,4 +1,4 @@
-package main.java.org.leetcode;
+package org.leetcode;
 
 public class MergeAlternately {
 
